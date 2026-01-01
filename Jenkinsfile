@@ -66,7 +66,7 @@ pipeline {
     post {
         failure {
             // يتم إرسال هذا الإيميل فقط في حالة فشل الـ Pipeline (مثلاً عند وجود ثغرات)
-            mail to: 'hesham@example.com', // استبدله بإيميلك الحقيقي
+            mail to: 'he.oss.2023@gmail.com',
                  subject: "⚠️ Security Alert: Pipeline Failed - ${env.JOB_NAME} [Build #${env.BUILD_NUMBER}]",
                  body: """⚠️ Security Vulnerabilities Detected!
                  
