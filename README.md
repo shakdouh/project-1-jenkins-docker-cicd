@@ -69,4 +69,4 @@ The project orchestrates multiple services, each communicating through specific 
 
 ---
 	
-Created by [Hesham Shakdouh] - Feel free to connect on [LinkedIn](www.linkedin.com/in/hesham-shakdouh-87bb57201)
+Created by [Hesham Shakdouh] - Feel free to connect on [www.linkedin.com/in/hesham-shakdouh-87bb57201].
